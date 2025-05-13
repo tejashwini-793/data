@@ -16,7 +16,7 @@ public class Employee{
         System.out.println("Experience: " + experience);
     }
     public static void main(String[] args) {
-        Employee emp1 = new Employee("ABC",092,50000.0,3);
+        Employee emp1 = new Employee("ABC",92,50000.0,3);
         emp1.displayinfo();
     }
 }
